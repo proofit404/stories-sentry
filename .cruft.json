@@ -1,0 +1,25 @@
+{
+  "template": "https://github.com/proofit404/python-library-template",
+  "commit": "4b9d3932b778f1a36135084bcb05af3eca87069e",
+  "context": {
+    "cookiecutter": {
+      "project_name": "stories-sentry",
+      "public_module_name": "stories_sentry",
+      "private_module_name": "_stories_sentry",
+      "exception_name": "StorySentryError",
+      "project_version": "0.2.0dev0",
+      "project_description": "Sentry breadcrumbs for stories executed before the failure.",
+      "author_name": "Artem Malyshev",
+      "author_email": "proofit404@gmail.com",
+      "github_user": "proofit404",
+      "github_repository": "https://github.com/proofit404/stories-sentry",
+      "issues_url": "https://github.com/proofit404/stories-sentry/issues",
+      "documentation_url": "https://proofit404.github.io/stories-sentry",
+      "changelog_url": "https://proofit404.github.io/stories-sentry/changelog",
+      "pypi_project": "https://pypi.org/project/stories-sentry",
+      "azure_definition_id": "8",
+      "_template": "https://github.com/proofit404/python-library-template"
+    }
+  },
+  "directory": null
+}

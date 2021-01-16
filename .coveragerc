@@ -1,0 +1,16 @@
+[run]
+branch = true
+parallel = true
+source =
+  _stories_sentry
+  stories_sentry
+  configuration
+  examples
+  helpers
+  mddoctest
+  tests
+
+[paths]
+source =
+  src
+  .tox/*/site-packages
